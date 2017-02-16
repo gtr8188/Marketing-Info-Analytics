@@ -1,0 +1,66 @@
+      Week           Sales             TV        
+ Min.   : 1.00   Min.   :18969   Min.   :  0.00  
+ 1st Qu.:13.00   1st Qu.:21171   1st Qu.:  0.00  
+ Median :27.00   Median :22924   Median :  0.00  
+ Mean   :26.57   Mean   :23064   Mean   : 41.28  
+ 3rd Qu.:40.00   3rd Qu.:24489   3rd Qu.: 70.00  
+ Max.   :52.00   Max.   :28451   Max.   :225.00  
+     Radio         Fuel.Volume      Fuel.Price   
+ Min.   :  0.00   Min.   :56259   Min.   :101.5  
+ 1st Qu.:  0.00   1st Qu.:61754   1st Qu.:108.0  
+ Median :  0.00   Median :63136   Median :115.5  
+ Mean   : 80.47   Mean   :62853   Mean   :115.5  
+ 3rd Qu.:205.00   3rd Qu.:64637   3rd Qu.:120.9  
+ Max.   :260.00   Max.   :68549   Max.   :133.7  
+      Temp            Prec          Holiday      
+ Min.   : 9.10   Min.   : 0.00   Min.   :0.0000  
+ 1st Qu.:12.00   1st Qu.: 6.20   1st Qu.:0.0000  
+ Median :16.80   Median :10.90   Median :0.0000  
+ Mean   :17.95   Mean   :11.34   Mean   :0.4653  
+ 3rd Qu.:23.10   3rd Qu.:14.50   3rd Qu.:1.0000  
+ Max.   :30.70   Max.   :30.30   Max.   :1.0000  
+ Visits..1.or.2. 
+ Min.   : 0.000  
+ 1st Qu.: 3.200  
+ Median : 6.000  
+ Mean   : 5.642  
+ 3rd Qu.: 7.000  
+ Max.   :12.500  
+      Week           Sales             TV        
+ Min.   : 1.00   Min.   :18969   Min.   :  0.00  
+ 1st Qu.:13.00   1st Qu.:21171   1st Qu.:  0.00  
+ Median :27.00   Median :22924   Median :  0.00  
+ Mean   :26.57   Mean   :23064   Mean   : 41.28  
+ 3rd Qu.:40.00   3rd Qu.:24489   3rd Qu.: 70.00  
+ Max.   :52.00   Max.   :28451   Max.   :225.00  
+     Radio         Fuel.Volume      Fuel.Price   
+ Min.   :  0.00   Min.   :56259   Min.   :101.5  
+ 1st Qu.:  0.00   1st Qu.:61754   1st Qu.:108.0  
+ Median :  0.00   Median :63136   Median :115.5  
+ Mean   : 80.47   Mean   :62853   Mean   :115.5  
+ 3rd Qu.:205.00   3rd Qu.:64637   3rd Qu.:120.9  
+ Max.   :260.00   Max.   :68549   Max.   :133.7  
+      Temp            Prec          Holiday      
+ Min.   : 9.10   Min.   : 0.00   Min.   :0.0000  
+ 1st Qu.:12.00   1st Qu.: 6.20   1st Qu.:0.0000  
+ Median :16.80   Median :10.90   Median :0.0000  
+ Mean   :17.95   Mean   :11.34   Mean   :0.4653  
+ 3rd Qu.:23.10   3rd Qu.:14.50   3rd Qu.:1.0000  
+ Max.   :30.70   Max.   :30.30   Max.   :1.0000  
+ Visits..1.or.2. 
+ Min.   : 0.000  
+ 1st Qu.: 3.200  
+ Median : 6.000  
+ Mean   : 5.642  
+ 3rd Qu.: 7.000  
+ Max.   :12.500  
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  18970   21170   22920   23060   24490   28450 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00    0.00    0.00   41.28   70.00  225.00 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00    0.00    0.00   80.47  205.00  260.00 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  56260   61750   63140   62850   64640   68550 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  18970   21170   22920   23060   24490   28450 

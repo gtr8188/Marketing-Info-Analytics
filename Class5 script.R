@@ -10,16 +10,16 @@ plot(mydata$LoadTime, mydata$Purchase)
 #Run the logistic model
 model1 = glm(Purchase ~ Interface, data = mydata, family = "binomial")
 
-summary(model1) # Linear affect on the Z value
+summary(model1) #Linear affect on the Z value
 
-exp(coef(model1)) # Calculate the odds ratio
-# For an increase of 1 unit in the interface, the chance of buying incerease 1.22
+exp(coef(model1)) #Calculate the odds ratio
+#For an increase of 1 unit in the interface, the chance of buying incerease 1.22
 
 #Compare model1
 model2 = glm(Purchase ~ Interface + LoadTime, data = mydata, family = "binomial")
-summary(model2) # Linear affect on the Z value
-# Positie on Interface and Negatice on LoadTime
-# AIC is lower, better
+summary(model2) #Linear affect on the Z value
+#Positie on Interface and Negatice on LoadTime
+#AIC is lower, better
 exp(coef(model2))
 #9.605967e-01 smaller than one, the chance of buying decrease
 

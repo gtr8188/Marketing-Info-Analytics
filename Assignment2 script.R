@@ -4,7 +4,7 @@ train = read.csv("/Users/daniellee/Desktop/BC/Study/Class Resource/2nd/Marketing
 model1 = lm(Sales ~ Visits + Price + AdSpend, data=train)
 summary(model1)
 
-test$Predictions = predict(model1, newdata = test)
+Predictions = predict(model1, newdata = test)
 Predictions
 
 SSE = sum((test$Sales - Predictions)^2)

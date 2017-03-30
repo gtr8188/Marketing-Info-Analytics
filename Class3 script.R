@@ -1,4 +1,5 @@
-
+train = read.csv("/Users/daniellee/Desktop/BC/Study/Class Resource/2nd/Marketing Infro. Anal./Class3/RetailMartTrain.csv",sep = ";",header = TRUE)
+test = read.csv("/Users/daniellee/Desktop/BC/Study/Class Resource/2nd/Marketing Infro. Anal./Class3/RetailMartTest.csv",sep = ";", header = TRUE)
 #change this path to your working directory to read in the datasets from there
 
 
@@ -27,7 +28,7 @@ model2 = lm(PREGNANT ~ ., data=train) #The "." will include all variables except
 summary(model2)
 
 #Prediction in sample
-train$Predictions = predict(model2, newdata = train)
+#train$Predictions = predict(model2, newdata = train)
 
 #Predicting pregnancy out-of-sample
 

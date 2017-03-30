@@ -1,3 +1,4 @@
+train = read.csv("/Users/daniellee/Desktop/BC/Study/Class Resource/2nd/Marketing Infro. Anal./Class2/RetailMartTrain.csv", sep = ";", header = TRUE)
 train = read.csv("RetailMartTrain.csv", sep = ";", header = TRUE)
 
 str(train)

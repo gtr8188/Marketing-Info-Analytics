@@ -1,0 +1,101 @@
+movie_title,genres,director_name,actor_1_name,num_critic_for_reviews,duration,director_facebook_likes,actor_1_facebook_likes,gross,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,num_user_for_reviews,language,country,budget,title_year,imdb_score,aspect_ratio,movie_facebook_likes
+Avatar й,Action|Adventure|Fantasy|Sci-Fi,James Cameron,CCH Pounder,723,178,0,1000,760505847,886204,4834,0,3054,English,USA,237000000,2009,7.9,1.78,33000
+The Avengers й,Action|Adventure|Sci-Fi,Joss Whedon,Chris Hemsworth,703,173,0,26000,623279547,995415,87697,3,1722,English,USA,220000000,2012,8.1,1.85,123000
+The Avengers й,Action|Adventure|Sci-Fi,Joss Whedon,Chris Hemsworth,703,173,0,26000,623279547,995415,87697,3,1722,English,USA,220000000,2012,8.1,1.85,123000
+The Dark Knight й,Action|Crime|Drama|Thriller,Christopher Nolan,Christian Bale,645,152,22000,23000,533316061,1676169,57802,0,4667,English,USA,185000000,2008,9,2.35,37000
+The Dark Knight Rises й,Action|Thriller,Christopher Nolan,Tom Hardy,813,164,22000,27000,448130642,1144337,106759,0,2701,English,USA,250000000,2012,8.5,2.35,164000
+Toy Story 3 й,Adventure|Animation|Comedy|Family|Fantasy,Lee Unkrich,Tom Hanks,453,103,125,15000,414984497,544884,19085,3,733,English,USA,200000000,2010,8.3,1.85,30000
+Captain America: Civil War й,Action|Adventure|Sci-Fi,Anthony Russo,Robert Downey Jr.,516,147,94,21000,407197282,272670,64798,0,1022,English,USA,250000000,2016,8.2,2.35,72000
+Finding Nemo й,Adventure|Animation|Comedy|Family,Andrew Stanton,Alexander Gould,301,100,475,1000,380838870,692482,5641,0,866,English,USA,94000000,2003,8.2,1.85,11000
+The Lord of the Rings: The Return of the King й,Action|Adventure|Drama|Fantasy,Peter Jackson,Orlando Bloom,328,192,0,5000,377019252,1215718,6434,2,3189,English,USA,94000000,2003,8.9,2.35,16000
+Deadpool й,Action|Adventure|Comedy|Romance|Sci-Fi,Tim Miller,Ryan Reynolds,579,108,84,16000,363024263,479047,18239,0,1058,English,USA,58000000,2016,8.1,2.35,117000
+Inside Out й,Adventure|Animation|Comedy|Drama|Family|Fantasy,Pete Docter,Amy Poehler,536,95,0,1000,356454367,345198,2944,1,773,English,USA,175000000,2015,8.3,1.85,118000
+The Lord of the Rings: The Two Towers й,Action|Adventure|Drama|Fantasy,Peter Jackson,Christopher Lee,294,172,0,16000,340478898,1100446,23052,1,2417,English,USA,94000000,2002,8.7,2.35,10000
+Guardians of the Galaxy й,Action|Adventure|Sci-Fi,James Gunn,Bradley Cooper,653,121,571,14000,333130696,682155,32438,3,1097,English,USA,170000000,2014,8.1,2.35,96000
+Iron Man й,Action|Adventure|Sci-Fi,Jon Favreau,Robert Downey Jr.,486,126,4000,21000,318298180,696338,39252,3,1055,English,USA,140000000,2008,7.9,2.35,10000
+Pirates of the Caribbean: The Curse of the Black Pearl й,Action|Adventure|Fantasy,Gore Verbinski,Johnny Depp,271,143,563,40000,305388685,809474,48184,3,2113,English,USA,140000000,2003,8.1,2.35,10000
+Up й,Adventure|Animation|Comedy|Family,Pete Docter,John Ratzenberger,408,96,0,1000,292979556,665575,2635,1,704,English,USA,175000000,2009,8.3,1.85,27000
+Inception й,Action|Adventure|Sci-Fi|Thriller,Christopher Nolan,Leonardo DiCaprio,642,148,22000,29000,292568851,1468200,81115,0,2803,English,USA,160000000,2010,8.8,2.35,175000
+"Monsters, Inc. й",Adventure|Animation|Comedy|Family|Fantasy,Pete Docter,Steve Buscemi,250,92,0,12000,289907418,585659,15013,0,593,English,USA,115000000,2001,8.1,1.85,0
+The Hangover й,Comedy,Todd Phillips,Bradley Cooper,334,108,480,14000,277313371,583341,17623,3,626,English,USA,35000000,2009,7.8,2.35,24000
+Shrek й,Adventure|Animation|Comedy|Family|Fantasy,Andrew Adamson,Kathleen Freeman,212,90,80,145,267652016,467113,275,1,945,English,USA,60000000,2001,7.9,1.85,0
+The Incredibles й,Action|Adventure|Animation|Family,Brad Bird,Holly Hunter,283,115,663,1000,261437578,479166,1901,0,815,English,USA,92000000,2004,8,2.35,0
+Captain America: The Winter Soldier й,Action|Adventure|Sci-Fi,Anthony Russo,Scarlett Johansson,576,136,94,19000,259746958,496749,36188,1,742,English,USA,170000000,2014,7.8,2.35,55000
+The Hobbit: The Desolation of Smaug й,Adventure|Fantasy,Peter Jackson,Aidan Turner,509,186,0,5000,258355354,483540,9152,6,951,English,USA,225000000,2013,7.9,2.35,83000
+Star Trek й,Action|Adventure|Sci-Fi,J.J. Abrams,Chris Hemsworth,518,127,14000,26000,257704099,504419,39284,0,1559,English,USA,150000000,2009,8,2.35,19000
+X-Men: Days of Future Past й,Action|Adventure|Fantasy|Sci-Fi|Thriller,Bryan Singer,Jennifer Lawrence,539,149,0,34000,233914986,514125,91434,7,752,English,USA,200000000,2014,8,2.35,82000
+Star Trek Into Darkness й,Action|Adventure|Sci-Fi,J.J. Abrams,Benedict Cumberbatch,590,132,14000,19000,228756232,395573,21411,0,1171,English,USA,190000000,2013,7.8,2.35,92000
+The Martian й,Adventure|Drama|Sci-Fi,Ridley Scott,Matt Damon,568,151,0,13000,228430993,472488,14831,1,1023,English,USA,108000000,2015,8.1,2.35,153000
+The Bourne Ultimatum й,Action|Mystery|Thriller,Paul Greengrass,Matt Damon,329,115,521,13000,227137090,491077,17369,0,820,English,USA,110000000,2007,8.1,2.35,0
+WALL АE й,Adventure|Animation|Family|Sci-Fi,Andrew Stanton,John Ratzenberger,421,98,475,1000,223806889,718837,2975,0,1043,English,USA,180000000,2008,8.4,2.35,16000
+Big Hero 6 й,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Don Hall,Damon Wayans Jr.,384,102,38,756,222487711,279093,2963,0,433,English,USA,165000000,2014,7.9,2.39,41000
+How to Train Your Dragon й,Adventure|Animation|Family|Fantasy,Dean DeBlois,Gerard Butler,288,98,255,18000,217387997,485430,20453,0,492,English,USA,165000000,2010,8.2,2.35,33000
+Ratatouille й,Animation|Comedy|Family|Fantasy,Brad Bird,Janeane Garofalo,318,111,663,1000,206435493,473887,4764,0,626,English,USA,150000000,2007,8,2.35,10000
+Batman Begins й,Action|Adventure,Christopher Nolan,Christian Bale,478,128,22000,23000,205343774,980946,59558,0,2685,English,USA,150000000,2005,8.3,2.35,15000
+Tangled й,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,Nathan Greno,Brad Garrett,324,100,15,799,200807262,294810,2036,1,387,English,USA,260000000,2010,7.8,1.85,29000
+Wreck-It Ralph й,Adventure|Animation|Comedy|Family|Sci-Fi,Rich Moore,Jack McBrayer,377,101,66,975,189412677,272534,4451,1,345,English,USA,165000000,2012,7.8,2.35,40000
+Interstellar й,Adventure|Drama|Sci-Fi,Christopher Nolan,Matthew McConaughey,712,169,22000,11000,187991439,928227,31488,1,2725,English,USA,165000000,2014,8.6,2.35,349000
+Gladiator й,Action|Drama|Romance,Ridley Scott,Djimon Hounsou,265,171,0,3000,187670866,982637,6521,0,2368,English,USA,103000000,2000,8.5,2.35,21000
+The Revenant й,Adventure|Drama|Thriller|Western,Alejandro G. Iл╠лаrritu,Leonardo DiCaprio,556,156,0,29000,183635922,406020,57108,0,1188,English,USA,135000000,2015,8.1,2.35,190000
+Ocean's Eleven й,Crime|Thriller,Steven Soderbergh,Brad Pitt,186,116,0,11000,183405771,402645,13028,4,845,English,USA,85000000,2001,7.8,2.35,0
+How to Train Your Dragon 2 й,Action|Adventure|Animation|Comedy|Family|Fantasy,Dean DeBlois,Gerard Butler,292,102,255,18000,176997107,221128,23378,5,343,English,USA,145000000,2014,7.9,2.35,46000
+The Bourne Supremacy й,Action|Mystery|Thriller,Paul Greengrass,Matt Damon,239,108,521,13000,176049130,348232,14161,1,806,English,USA,75000000,2004,7.8,2.35,0
+A Beautiful Mind й,Biography|Drama,Ron Howard,Adam Goldberg,205,135,2000,1000,170708996,610568,2827,0,1171,English,USA,58000000,2001,8.2,1.85,29000
+The Help й,Drama,Tate Taylor,Emma Stone,373,146,150,15000,169705587,318955,23227,2,460,English,USA,25000000,2011,8.1,1.85,75000
+Gone Girl й,Crime|Drama|Mystery|Thriller,David Fincher,Patrick Fugit,568,149,21000,835,167735396,569841,4348,0,1127,English,USA,61000000,2014,8.1,2.35,146000
+Catch Me If You Can й,Biography|Crime|Drama,Steven Spielberg,Leonardo DiCaprio,194,141,14000,29000,164435221,525801,48153,0,667,English,USA,52000000,2002,8,1.85,15000
+Django Unchained й,Drama|Western,Quentin Tarantino,Leonardo DiCaprio,765,165,16000,29000,162804648,955174,40978,1,1193,English,USA,100000000,2012,8.5,2.35,199000
+The Pursuit of Happyness й,Biography|Drama,Gabriele Muccino,Will Smith,201,117,125,10000,162586036,338383,11036,0,611,English,USA,55000000,2006,8,2.35,32000
+Straight Outta Compton й,Biography|Crime|Drama|History|Music,F. Gary Gray,Aldis Hodge,349,167,473,559,161029270,119928,2702,0,331,English,USA,28000000,2015,7.9,2.35,76000
+Gran Torino й,Drama,Clint Eastwood,Clint Eastwood,366,116,16000,16000,148085755,561773,17347,0,871,English,USA,33000000,2008,8.2,2.35,28000
+X-Men: First Class й,Action|Adventure|Sci-Fi,Matthew Vaughn,Jennifer Lawrence,500,132,905,34000,146405371,518537,50983,3,698,English,USA,160000000,2011,7.8,2.35,54000
+The Departed й,Crime|Drama|Thriller,Martin Scorsese,Leonardo DiCaprio,352,151,17000,29000,132373442,873649,45648,0,2054,English,USA,90000000,2006,8.5,2.35,29000
+Silver Linings Playbook й,Comedy|Drama|Romance,David O. Russell,Jennifer Lawrence,539,122,737,34000,132088910,533607,72115,0,692,English,USA,21000000,2012,7.8,2.35,117000
+American Gangster й,Biography|Crime|Drama,Ridley Scott,Denzel Washington,300,176,0,18000,130127620,324671,20354,0,458,English,USA,100000000,2007,7.8,1.85,0
+Shutter Island й,Mystery|Thriller,Martin Scorsese,Leonardo DiCaprio,490,138,17000,29000,127968405,786092,29585,0,964,English,USA,80000000,2010,8.1,2.35,53000
+The Curious Case of Benjamin Button й,Drama|Fantasy|Romance,David Fincher,Brad Pitt,362,166,21000,11000,127490802,459346,13333,2,822,English,USA,150000000,2008,7.8,2.35,23000
+Life of Pi й,Adventure|Drama|Fantasy,Ang Lee,Suraj Sharma,552,127,0,774,124976634,440084,2121,0,755,English,USA,120000000,2012,8,1.85,122000
+The Fault in Our Stars й,Drama|Romance,Josh Boone,Shailene Woodley,326,133,131,8000,124868837,249688,10565,0,548,English,USA,12000000,2014,7.8,1.85,93000
+The Bourne Identity й,Action|Mystery|Thriller,Doug Liman,Matt Damon,249,119,218,13000,121468960,407601,13249,1,849,English,USA,60000000,2002,7.9,2.35,0
+Inglourious Basterds й,Adventure|Drama|War,Quentin Tarantino,Michael Fassbender,486,153,16000,13000,120523073,885175,36741,1,1527,English,USA,75000000,2009,8.3,2.35,42000
+Walk the Line й,Biography|Drama|Music|Romance,James Mangold,Sandra Ellis Lafferty,291,153,446,523,119518352,188637,1383,0,815,English,USA,28000000,2005,7.9,2.39,11000
+The Wolf of Wall Street й,Biography|Comedy|Crime|Drama,Martin Scorsese,Leonardo DiCaprio,606,240,17000,29000,116866727,780588,46057,3,1138,English,USA,100000000,2013,8.2,2.35,138000
+Remember the Titans й,Biography|Drama|Sport,Boaz Yakin,Ryan Gosling,157,120,132,33000,115648585,160776,54877,1,402,English,USA,30000000,2000,7.8,2.35,0
+Captain Phillips й,Biography|Drama|Thriller,Paul Greengrass,Tom Hanks,491,134,521,15000,107100855,323353,16281,0,527,English,USA,55000000,2013,7.9,2.35,65000
+Black Swan й,Drama|Thriller,Darren Aronofsky,Natalie Portman,669,108,0,20000,106952327,551363,38072,1,1140,English,USA,13000000,2010,8,2.35,106000
+The Girl with the Dragon Tattoo й,Crime|Drama|Mystery|Thriller,David Fincher,Robin Wright,517,158,21000,18000,102515793,330152,20388,1,632,English,USA,90000000,2011,7.8,2.35,54000
+The Conjuring 2 й,Horror|Mystery|Thriller,James Wan,Javier Botet,300,134,0,1000,102310175,64989,2676,0,279,English,USA,40000000,2016,7.8,2.35,40000
+Million Dollar Baby й,Drama|Sport,Clint Eastwood,Clint Eastwood,268,132,16000,16000,100422786,482064,28830,1,1106,English,USA,30000000,2004,8.1,2.35,14000
+Edge of Tomorrow й,Action|Adventure|Sci-Fi,Doug Liman,Tom Cruise,585,113,218,10000,100189501,431620,12652,1,741,English,USA,178000000,2014,7.9,2.35,77000
+The Fighter й,Biography|Drama|Sport,David O. Russell,Christian Bale,410,116,737,23000,93571803,275869,23811,2,389,English,USA,25000000,2010,7.9,2.35,36000
+Mystic River й,Crime|Drama|Mystery|Thriller,Clint Eastwood,John Doman,229,138,16000,616,90135191,338415,1942,0,935,English,USA,25000000,2003,8,2.35,12000
+No Country for Old Men й,Crime|Drama|Thriller,Ethan Coen,Kelly Macdonald,488,122,1000,2000,74273505,612060,4738,0,1518,English,USA,25000000,2007,8.1,2.35,21000
+Sin City й,Crime|Thriller,Frank Miller,Rosario Dawson,374,147,436,3000,74098862,656640,3924,1,1732,English,USA,40000000,2005,8.1,1.85,13000
+V for Vendetta й,Action|Drama|Thriller,James McTeigue,Natalie Portman,525,132,160,20000,70496802,791783,22417,1,2042,English,USA,54000000,2005,8.2,2.35,48000
+The Big Short й,Biography|Comedy|Drama|History,Adam McKay,Ryan Gosling,426,130,285,33000,70235322,182983,57308,4,374,English,USA,28000000,2015,7.8,2.35,99000
+Kill Bill: Vol. 1 й,Action,Quentin Tarantino,David Carradine,354,111,16000,926,70098138,735784,3983,0,2105,English,USA,30000000,2003,8.1,2.35,13000
+Big Fish й,Adventure|Drama|Fantasy,Tim Burton,Steve Buscemi,235,125,13000,12000,66257002,350698,16138,0,816,English,USA,70000000,2003,8,1.37,26000
+Kill Bill: Vol. 2 й,Action|Crime|Drama|Thriller,Quentin Tarantino,Vivica A. Fox,304,137,16000,890,66207920,512749,1959,0,935,English,USA,30000000,2004,8,2.35,0
+Cinderella Man й,Biography|Drama|Sport,Ron Howard,Paddy Considine,201,144,2000,680,61644321,148238,2523,0,529,English,USA,88000000,2005,8,2.35,0
+Prisoners й,Crime|Drama|Mystery|Thriller,Denis Villeneuve,Hugh Jackman,454,153,777,20000,60962878,383591,37321,2,620,English,USA,46000000,2013,8.1,1.85,86000
+Little Miss Sunshine й,Comedy|Drama,Jonathan Dayton,Steve Carell,270,101,36,7000,59889948,355810,7227,1,889,English,USA,8000000,2006,7.9,2.35,15000
+The Grand Budapest Hotel й,Adventure|Comedy|Crime|Drama,Wes Anderson,Bill Murray,536,99,0,13000,59073773,475518,15082,0,644,English,USA,25000000,2014,8.1,1.37,149000
+12 Years a Slave й,Biography|Drama|History,Steve McQueen,Quvenzhanл╘ Wallis,597,134,0,2000,56667870,439176,4251,0,695,English,USA,20000000,2013,8.1,2.35,83000
+The Hateful Eight й,Crime|Drama|Mystery|Thriller|Western,Quentin Tarantino,Craig Stark,596,187,16000,46000,54116191,272839,49912,1,1018,English,USA,44000000,2015,7.9,2.76,114000
+3:10 to Yuma й,Adventure|Crime|Drama|Western,James Mangold,Christian Bale,295,122,446,23000,53574088,237872,33548,1,560,English,USA,55000000,2007,7.8,2.35,0
+The Prestige й,Drama|Mystery|Sci-Fi|Thriller,Christopher Nolan,Christian Bale,341,130,22000,23000,53082743,844052,63986,1,1100,English,USA,40000000,2006,8.5,2.35,49000
+Finding Neverland й,Biography|Drama|Family,Marc Forster,Johnny Depp,226,101,395,40000,51676606,174591,58823,1,632,English,USA,25000000,2004,7.8,2.35,0
+Apocalypto й,Action|Adventure|Drama|Thriller,Mel Gibson,Rudy Youngblood,283,139,0,708,50859889,236000,848,0,1043,Maya,USA,40000000,2006,7.8,1.85,14000
+Moonrise Kingdom й,Adventure|Comedy|Drama|Romance,Wes Anderson,Bruce Willis,487,94,0,13000,45507053,237848,27911,2,377,English,USA,16000000,2012,7.8,1.85,71000
+Spotlight й,Biography|Crime|Drama|History,Tom McCarthy,Billy Crudup,474,128,310,745,44988180,195333,1058,2,409,English,USA,20000000,2015,8.1,1.85,80000
+Lost in Translation й,Drama,Sofia Coppola,Scarlett Johansson,265,101,0,19000,44566004,321283,32015,0,1848,English,USA,4000000,2003,7.8,1.85,17000
+Birdman or (The Unexpected Virtue of Ignorance) й,Comedy|Drama|Romance,Alejandro G. Iл╠лаrritu,Emma Stone,588,119,0,15000,42335698,395087,21668,8,1101,English,USA,18000000,2014,7.8,1.85,114000
+There Will Be Blood й,Drama,Paul Thomas Anderson,Jim Meskimen,398,158,0,272,40218903,372990,533,0,1107,English,USA,25000000,2007,8.1,2.35,16000
+Changeling й,Crime|Drama|Mystery|Thriller,Clint Eastwood,Angelina Jolie Pitt,264,141,16000,11000,35707327,199056,12840,0,387,English,USA,55000000,2008,7.8,2.35,14000
+Children of Men й,Drama|Sci-Fi|Thriller,Alfonso Cuarл_n,Charlie Hunnam,372,109,0,16000,35286428,361767,16479,0,1206,English,USA,76000000,2006,7.9,1.85,17000
+Drive й,Crime|Drama,Nicolas Winding Refn,Ryan Gosling,676,100,0,33000,35054909,431578,34337,0,1264,English,USA,15000000,2011,7.8,2.35,81000
+Eternal Sunshine of the Spotless Mind й,Drama|Fantasy|Romance|Sci-Fi,Michel Gondry,Kate Winslet,273,108,1000,14000,34126138,666937,19364,1,1514,English,USA,20000000,2004,8.3,1.85,52000
+Almost Famous й,Adventure|Comedy|Drama|Music,Cameron Crowe,Philip Seymour Hoffman,149,152,488,22000,32522352,207287,36897,1,822,English,USA,60000000,2000,7.9,1.85,15000
+Nightcrawler й,Crime|Drama|Thriller,Dan Gilroy,Jake Gyllenhaal,534,117,66,15000,32279955,293304,15554,1,552,English,USA,8500000,2014,7.9,2.35,65000
+Dallas Buyers Club й,Biography|Drama,Jean-Marc Vallл╘e,Matthew McConaughey,471,117,212,11000,27296514,326494,17738,0,340,English,USA,5000000,2013,8,2.35,65000
+The Wrestler й,Drama|Sport,Darren Aronofsky,Mark Margolis,391,109,0,1000,26236603,251349,1582,0,547,English,USA,6000000,2008,7.9,2.35,10000
